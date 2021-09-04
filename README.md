@@ -10,11 +10,11 @@ In this first challenge, you need to create a list of jokes where each joke will
 
 ✅ When a joke is tapped, it _must show_ the `punchline` under the joke's `setup` _with animation._
 
-✅ When a punchline is being shown, the next joke _must animate_ to its new position.
+✅ When a `punchline` is being shown, the next joke _must animate_ to its new position.
 
-✅ When a joke with shown a punchline is tapped, it must hide the punchline with animation.
+✅ When a joke with a visible `punchline` is tapped, it must hide the `punchline` with animation.
 
-✅ When a punchline is being hidden, the next joke _must animate_ to its new position.
+✅ When a `punchline` is being hidden, the next joke _must animate_ to its new position.
 
 ## Demo
 
