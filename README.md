@@ -7,12 +7,20 @@ In this first challenge, you need to create a list of jokes where each joke will
 ## Requirement
 
 ✅ Each of the row shows the joke's `setup` text.
+
 ✅ When a joke is tapped, it _must show_ the `punchline` under the joke's `setup` _with animation._
+
 ✅ When a punchline is being shown, the next joke _must animate_ to its new position.
+
 ✅ When a joke with shown a punchline is tapped, it must hide the punchline with animation.
+
 ✅ When a punchline is being hidden, the next joke _must animate_ to its new position.
 
 ## Demo
+
+
+https://user-images.githubusercontent.com/311343/132088477-a7033cd8-fc48-4d71-bd7a-d17987ee4961.mp4
+
 
 ## Submit
 
