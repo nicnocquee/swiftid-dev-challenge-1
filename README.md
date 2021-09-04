@@ -6,6 +6,8 @@ In this first challenge, you need to create a list of jokes where each joke will
 
 ## Requirement
 
+✅ Must use SwiftUI.
+
 ✅ Each of the row shows the joke's `setup` text.
 
 ✅ When a joke is tapped, it _must show_ the `punchline` under the joke's `setup` _with animation._
