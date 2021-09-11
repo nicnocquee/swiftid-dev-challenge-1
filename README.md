@@ -34,6 +34,9 @@ To submit your implementation,
 ## Notes
 
 - In this repo, there are already some structs and extensions to help you get started.
+- The [official Joke API](https://github.com/15Dkatz/official_joke_api) server is not running anymore. So you need to run it locally.
 - This challenge is for members of [Swift Study Group Indonesia](https://swiftid.dev)
 
 ## Submissions
+
+- Nico (me): [https://github.com/nicnocquee/swiftui-accordion-view-sample](https://github.com/nicnocquee/swiftui-accordion-view-sample)
